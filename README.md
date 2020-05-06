@@ -35,9 +35,9 @@ Libraries you need to install to run the demo.
 
 ```
 Python 2.7 and Python 3
-NumPy
-SciPy
-Scikit-learn
+numPy
+sciPy
+scikit-learn
 scikit-feature
 matplotlib
 seaborn
