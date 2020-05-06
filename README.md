@@ -65,22 +65,22 @@ https://www.youtube.com/watch?v=9HbLxNef2t8
 
 ```
 @article{georges2020,
-  title={Identifying the best data-driven feature selection method for boosting reproducibility in classification tasks},<br/>
-  author={Georges, Nicolas and Mhiri, Islem and Rekik, Islem and Alzheimer’s Disease Neuroimaging Initiative and others},<br/>
-  journal={Pattern Recognition},<br/>
-  pages={107183},<br/>
-  year={2020},<br/>
-  publisher={Elsevier}<br/>
-}<br/>
+  title={Identifying the best data-driven feature selection method for boosting reproducibility in classification tasks},
+  author={Georges, Nicolas and Mhiri, Islem and Rekik, Islem and Alzheimer’s Disease Neuroimaging Initiative and others},
+  journal={Pattern Recognition},
+  pages={107183},
+  year={2020},
+  publisher={Elsevier}
+}
 
 @inproceedings{georges2018data,
-  title={Data-specific feature selection method identification for most reproducible connectomic feature discovery fingerprinting brain states},<br/>
+  title={Data-specific feature selection method identification for most reproducible connectomic feature discovery fingerprinting brain states},
   author={Georges, Nicolas and Rekik, Islem and others},<br/>
-  booktitle={International Workshop on Connectomics in Neuroimaging},<br/>
-  pages={99--106},<br/>
-  year={2018},<br/>
-  organization={Springer}<br/>
-}<br/>
+  booktitle={International Workshop on Connectomics in Neuroimaging},
+  pages={99--106},
+  year={2018},
+  organization={Springer}
+}
 
 Paper link on ResearchGate:
 https://www.researchgate.net/publication/338147218_Identifying_the_best_data-driven_feature_selection_method_for_boosting_reproducibility_in_classification_tasks
