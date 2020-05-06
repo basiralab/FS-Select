@@ -1,0 +1,12 @@
+NumPy
+SciPy
+Scikit-learn
+scikit-feature
+matplotlib
+seaborn
+networkx
+pickle
+pandas
+hypernetx
+sklearn
+nxviz
