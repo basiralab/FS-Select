@@ -16,7 +16,7 @@ Developed by Raouaa Ghodhbani © | 2020
 raouaghodhbani@gmail.com
 ```
 
-## Motivation
+## Motivation: how much can you trust your FS method? 
 
 Considering the proliferation of extremely high-dimensional data in many domains including computer vision and healthcare applications such as computer-aided diagnosis (CAD), advanced techniques for reducing the data dimensionality and identifying the most relevant features for a given classification task such as distinguishing between healthy and disordered brain states are needed. Despite the existence of many works on boosting the classification accuracy using a particular feature selection (FS) method, *choosing the best one from a large pool of existing FS techniques for boosting feature reproducibility within a dataset of interest remains a formidable challenge to tackle.* Notably, a good performance of a particular FS method does not necessarily imply that the experiment is reproducible and that the features identified are optimal for the entirety of the samples. Essentially, this paper presents the first attempt to address the following challenge: **"Given a set of different feature selection methods {FS1, ..., FSK }, and a dataset of interest, how to identify the most reproducible and 'trustworthy' connectomic features that would produce reliable biomarkers capable of accurately differentiate between two specific conditions?"** 
 
