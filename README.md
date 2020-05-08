@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=9HbLxNef2t8
 
 ```
 
-Pbulished paper link: https://www.sciencedirect.com/science/article/pii/S0031320319304832
+Published paper link: https://www.sciencedirect.com/science/article/pii/S0031320319304832
 
 Paper preprint link on ResearchGate:
 https://www.researchgate.net/publication/338147218_Identifying_the_best_data-driven_feature_selection_method_for_boosting_reproducibility_in_classification_tasks
